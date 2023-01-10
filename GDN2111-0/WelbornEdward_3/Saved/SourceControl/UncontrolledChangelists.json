@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/roywelborn/Documents/GitHub/Full-Sail-University-Projects/GDN2111-0/WelbornEdward_3/Content/Level/Blueprints/LootChestsBP.uasset",
+				"/Users/roywelborn/Documents/GitHub/Full-Sail-University-Projects/GDN2111-0/WelbornEdward_3/Content/Level/Blueprints/LootGatheringBP.uasset",
+				"/Users/roywelborn/Documents/GitHub/Full-Sail-University-Projects/GDN2111-0/WelbornEdward_3/Content/Level/Blueprints/LootMonsterBP.uasset",
+				"/Users/roywelborn/Documents/GitHub/Full-Sail-University-Projects/GDN2111-0/WelbornEdward_3/Content/Level/Blueprints/LootDungeonBP.uasset"
+			]
+		}
+	]
+}
